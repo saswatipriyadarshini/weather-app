@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import CalendarComp from "./Calendar";
+import CalendarComp from "./Component/Calendar/Calendar";
 
 function App() {
   return (

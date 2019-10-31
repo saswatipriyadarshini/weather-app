@@ -5,10 +5,11 @@
   "dependencies": {
     "antd": "^3.24.2",
     "axios": "^0.18.0",
+    "moment": "^2.24.0",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
-    "react-scripts": "3.2.0",
     "react-redux": "^6.0.1",
+    "react-scripts": "3.2.0",
     "redux": "^4.0.1",
     "redux-connect-decorator": "^0.2.1",
     "redux-logger": "^3.0.6",
